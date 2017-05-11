@@ -8,6 +8,10 @@ A collection of awesome system architecture
 ## Database
 * [DB-Engines Ranking](https://db-engines.com/en/ranking) - DB-Engines Ranking
 
+
+## UI
+ * [Semantic UI](https://semantic-ui.com/) - User Interface is the language of the web
+
 ### Client Side
 * [rxdb](https://github.com/pubkey/rxdb) - Client Side Database for Browsers, NodeJS, electron, cordova, react-native and every other javascript-runtime
 * [PouchDB](https://pouchdb.com/) - The Database that Syncs!
@@ -26,6 +30,7 @@ A collection of awesome system architecture
 ## IDE
 
 * [Visual Studio Code](https://code.visualstudio.com/) - Code editing. Redefined.
+* [Visual Studio Community](https://www.visualstudio.com/vs/community/) - Visual Studio Community
 
 ## Productivity
 
