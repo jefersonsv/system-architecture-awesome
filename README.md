@@ -8,7 +8,6 @@ A collection of awesome system architecture
 ## Database
 * [DB-Engines Ranking](https://db-engines.com/en/ranking) - DB-Engines Ranking
 
-
 ## UI
  * [Semantic UI](https://semantic-ui.com/) - User Interface is the language of the web
 
@@ -23,6 +22,9 @@ A collection of awesome system architecture
 * [NOSQL Databases](http://nosql-database.org/) - LIST OF NOSQL DATABASES
 * [CouchDB](http://couchdb.apache.org/) - CouchDB Relax
 * [MongoDB](https://www.mongodb.com/) - MongoDB for GIANT ideas
+
+## LOG
+* [Serilog](https://serilog.net/) - simple .NET logging with fully-structured events
 
 ### Clinet
 * [Robomongo](https://robomongo.org/) - native MongoDB management tool (Admin UI)
