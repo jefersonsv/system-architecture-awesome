@@ -1,5 +1,5 @@
 # System Architecture Awesome
-A collection of awesome system architecture
+A collection of awesome general system architecture and .NET
 
 ## Offline First
 * [Offline First](http://offlinefirst.org/) - Offline First!
@@ -7,6 +7,10 @@ A collection of awesome system architecture
 
 ## Database
 * [DB-Engines Ranking](https://db-engines.com/en/ranking) - DB-Engines Ranking
+
+## ORM
+* [Entity Framework](https://github.com/aspnet/EntityFramework) - Is a lightweight and extensible version of the popular Entity Framework data access technology
+* [Dapper](https://github.com/StackExchange/Dapper) - Dapper - a simple object mapper for .Net
 
 ## UI
  * [Semantic UI](https://semantic-ui.com/) - User Interface is the language of the web
@@ -18,19 +22,32 @@ A collection of awesome system architecture
 ## JSON
 * [JSON Schema](http://json-schema.org/) - JSON Schema is a vocabulary that allows you to annotate and validate JSON documents
 
+## Validation
+* [FluentValidation](https://github.com/JeremySkinner/FluentValidation) - A library for .NET that uses a fluent interface and lambda expressions for building validation rules
+
 ## NOSQL
 * [NOSQL Databases](http://nosql-database.org/) - LIST OF NOSQL DATABASES
 * [CouchDB](http://couchdb.apache.org/) - CouchDB Relax
 * [MongoDB](https://www.mongodb.com/) - MongoDB for GIANT ideas
 
+## Security
+* [JSON Web Tokens](https://jwt.io) - Industry standard RFC 7519 method for representing claims securely between two parties
+* [Jwt.Net](https://github.com/jwt-dotnet/jwt) - A JWT (JSON Web Token) implementation for .NET
+
+## JSON
+* [Json.NET](https://github.com/JamesNK/Newtonsoft.Json) - Json.NET is a popular high-performance JSON framework for .NET
+
 ## LOG
 * [Serilog](https://serilog.net/) - simple .NET logging with fully-structured events
+* [JSNlog](http://jsnlog.com/) - Log JavaScript client side events in your server side logs
+
+## Resilience
+* [Polly](https://github.com/App-vNext/Polly) - Polly is a .NET resilience and transient-fault-handling library
 
 ### Clinet
 * [Robomongo](https://robomongo.org/) - native MongoDB management tool (Admin UI)
 
 ## IDE
-
 * [Visual Studio Code](https://code.visualstudio.com/) - Code editing. Redefined.
 * [Visual Studio Community](https://www.visualstudio.com/vs/community/) - Visual Studio Community
 
