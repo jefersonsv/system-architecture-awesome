@@ -8,11 +8,25 @@ A collection of awesome general system architecture and .NET
 ## Database
 * [DB-Engines Ranking](https://db-engines.com/en/ranking) - DB-Engines Ranking
 
+## Mapping
+* [AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET
+* [FastMapper](https://www.nuget.org/packages/FastMapper/) - Powerful convention-based, customizable and fastest tool for object-object mapping
+
+## IoC
+* [Autofac](https://autofac.org/) - Autofac is an addictive Inversion of Control container for .NET
+
+## PDF
+* [iTextSharp](https://sourceforge.net/projects/itextsharp/) - A .NET PDF library
+
 ## ORM
 * [Entity Framework](https://github.com/aspnet/EntityFramework) - Is a lightweight and extensible version of the popular Entity Framework data access technology
 * [Dapper](https://github.com/StackExchange/Dapper) - Dapper - a simple object mapper for .Net
 * [CouchDB.Client](https://github.com/jefersonsv/CouchDB.Client) - A complete driver to access CouchDB in .NET
 * [Entity Framework Plus](http://entityframework-plus.net/) - Extend and Overcome Entity Framework Limitations with Must-Have Features
+* [PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) - A tiny ORM-ish thing for your POCO's
+
+## Evaluation
+* [Eval Expression.NET](http://eval-expression.net/) - Evaluate, Compile and Execute C# Dynamic Code and Expression at Runtime
 
 ## UI
  * [Semantic UI](https://semantic-ui.com/) - User Interface is the language of the web
@@ -31,7 +45,13 @@ A collection of awesome general system architecture and .NET
 * [NOSQL Databases](http://nosql-database.org/) - LIST OF NOSQL DATABASES
 * [CouchDB](http://couchdb.apache.org/) - CouchDB Relax
 * [MongoDB](https://www.mongodb.com/) - MongoDB for GIANT ideas
-* [AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET
+* [RavenDB Client](http://www.ravendb.net/) - The open source NoSQL database for .NET
+* [LiteDB](http://www.litedb.org/) - Embedded NoSQL database for .NET
+* [MongoDB](http://www.mongodb.org/display/DOCS/CSharp+Language+Center) - C# and .NET MongoDB Driver
+
+## String Utils
+* [Bogus](https://github.com/bchavez/Bogus) - A simple and sane fake data generator for C#
+* [Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings
 
 ## Security
 * [JSON Web Tokens](https://jwt.io) - Industry standard RFC 7519 method for representing claims securely between two parties
@@ -42,6 +62,7 @@ A collection of awesome general system architecture and .NET
 
 ## HTML parser
 * [HtmlAgilityPack](http://html-agility-pack.net/) - Html Parser
+* [AngleSharp](https://anglesharp.github.io/) - AngleSharp follows the W3C specifications and gives you the same results as state of the art browsers
 
 ## JSON
 * [Json.NET](https://github.com/JamesNK/Newtonsoft.Json) - Json.NET is a popular high-performance JSON framework for .NET
@@ -54,14 +75,22 @@ A collection of awesome general system architecture and .NET
 
 ## LOG
 * [Serilog](https://serilog.net/) - simple .NET logging with fully-structured events
+* [Serilog Literate](https://github.com/serilog/serilog-sinks-literate) A console sink for Serilog that pretty-prints embedded properties
+
 * [NLog](http://nlog-project.org/) - NLog is a logging platform for .NET with rich log routing and management capabilities
 * [JSNlog](http://jsnlog.com/) - Log JavaScript client side events in your server side logs
 * [Elmah](https://elmah.github.io) - Error Logging Modules and Handlers
 
+## Audit
+* [Audit.NET](https://github.com/thepirat000/Audit.NET) - Generate tracking information about an operation being executed
+
 ## Resilience
 * [Polly](https://github.com/App-vNext/Polly) - Polly is a .NET resilience and transient-fault-handling library
 
-### Clinet
+## Web Client
+[Flurl](http://tmenier.github.io/Flurl/) - Fluent URL builder and testable HTTP for .NET
+
+## Client
 * [Robomongo](https://robomongo.org/) - native MongoDB management tool (Admin UI)
 
 ## IDE
@@ -71,13 +100,17 @@ A collection of awesome general system architecture and .NET
 ## Console
 * [ConsoleMenu](https://github.com/jefersonsv/ConsoleMenu) - Console menu system with keyborad arrows and mouse selection
 
-## XPath
+## Utils
 * [FluentXPath](https://github.com/jefersonsv/FluentXPath) - Build query XPath with fluent style code
+* [Ensure.That](https://github.com/danielwertheim/Ensure.That) - Yet another guard clause project for .Net C#'ers
 
 ## Productivity
 
 * [Chocolatey](https://chocolatey.org/) - The package manager for Windows
 * [PortableApps](https://portableapps.com/) - Portable software for USB, portable, and cloud drives
+
+## JS
+* [Moment.js](http://momentjs.com/) - Parse, validate, manipulate, and display dates and times in JavaScript
 
 ## Others Awesome
 
@@ -87,6 +120,9 @@ A collection of awesome general system architecture and .NET
 * [DOTNET Performance](https://github.com/adamsitnik/awesome-dot-net-performance) - Awesome .NET Performance
 * [NodeJS](https://github.com/sindresorhus/awesome-nodejs) - Awesome Node.js
 * [VueJS](https://github.com/vuejs/awesome-vue) - Awesome Vue.js
+
+### Others
+Octopus, GIT
 
 # License
 
