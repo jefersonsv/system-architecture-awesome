@@ -16,6 +16,7 @@ A collection of awesome general system architecture and .NET
 * [Autofac](https://autofac.org/) - Autofac is an addictive Inversion of Control container for .NET
 
 ## PDF
+* [openhtmltopdf](https://github.com/danfickle/openhtmltopdf) - An HTML to PDF library for the JVM. Based on Flying Saucer and Apache PDF-BOX 2.
 * [iTextSharp](https://sourceforge.net/projects/itextsharp/) - A .NET PDF library
 
 ## ORM
