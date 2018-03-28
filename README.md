@@ -29,12 +29,10 @@ A collection of awesome general system architecture and .NET
 * [Entity Framework Plus](http://entityframework-plus.net/) - Extend and Overcome Entity Framework Limitations with Must-Have Features
 * [PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) - A tiny ORM-ish thing for your POCO's
 
-
-
 ## UI
  * [Semantic UI](https://semantic-ui.com/) - User Interface is the language of the web
 
-### Client Side
+## Client Side
 * [rxdb](https://github.com/pubkey/rxdb) - Client Side Database for Browsers, NodeJS, electron, cordova, react-native and every other javascript-runtime
 * [PouchDB](https://pouchdb.com/) - The Database that Syncs!
 
@@ -103,14 +101,15 @@ A collection of awesome general system architecture and .NET
 ## Console
 * [ConsoleMenu](https://github.com/jefersonsv/ConsoleMenu) - Console menu system with keyborad arrows and mouse selection
 
+## Productivity
+* [Chocolatey](https://chocolatey.org/) - The package manager for Windows
+* [PortableApps](https://portableapps.com/) - Portable software for USB, portable, and cloud drives
+
+
 ## Utils
 * [FluentXPath](https://github.com/jefersonsv/FluentXPath) - Build query XPath with fluent style code
 * [Ensure.That](https://github.com/danielwertheim/Ensure.That) - Yet another guard clause project for .Net C#'ers
 
-## Productivity
-
-* [Chocolatey](https://chocolatey.org/) - The package manager for Windows
-* [PortableApps](https://portableapps.com/) - Portable software for USB, portable, and cloud drives
 
 ## JS
 * [Moment.js](http://momentjs.com/) - Parse, validate, manipulate, and display dates and times in JavaScript
