@@ -101,6 +101,9 @@ A collection of awesome general system architecture and .NET
 ## Console
 * [ConsoleMenu](https://github.com/jefersonsv/ConsoleMenu) - Console menu system with keyborad arrows and mouse selection
 
+## Enum
+* [Enums.NET](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET is a high-performance type-safe .NET enum utility library
+
 ## Productivity
 * [Chocolatey](https://chocolatey.org/) - The package manager for Windows
 * [PortableApps](https://portableapps.com/) - Portable software for USB, portable, and cloud drives
