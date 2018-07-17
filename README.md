@@ -32,6 +32,8 @@ A collection of awesome general system architecture and .NET
 * [Entity Framework Plus](http://entityframework-plus.net/) - Extend and Overcome Entity Framework Limitations with Must-Have Features
 * [PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) - A tiny ORM-ish thing for your POCO's
 
+* [RepoDb](https://github.com/mikependon/RepoDb) - A dynamic, lightweight and fast repo-based ORM .NET Library.
+
 ## UI
  * [Semantic UI](https://semantic-ui.com/) - User Interface is the language of the web
 
@@ -103,6 +105,7 @@ A collection of awesome general system architecture and .NET
 ## IDE
 * [Visual Studio Code](https://code.visualstudio.com/) - Code editing. Redefined.
 * [Visual Studio Community](https://www.visualstudio.com/vs/community/) - Visual Studio Community
+
 
 ## Console
 * [ConsoleMenu](https://github.com/jefersonsv/ConsoleMenu) - Console menu system with keyborad arrows and mouse selection
@@ -354,8 +357,12 @@ A collection of awesome general system architecture and .NET
 * [Realm Xamarin](https://github.com/realm/realm-dotnet) - A fast, easy-to-use alternative to SQLite & ORMs - https://www.realm.io/docs/dotnet/latest/
 * [Streamstone](https://github.com/yevhen/Streamstone) - Event store for Azure Table Storage
 * [Ignite](https://github.com/apache/ignite) - Distributed in-memory platform: document database with SQL and LINQ support; distributed computations; distributed services and events.
-* [Yessql](https://github.com/sebastienros/yessql) - A .NET document database working on any RDBMS
-* [JsonFlatFileDataStore](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data
+* [Yessql](https://github.com/sebastienros/yessql) - A .NET document database working on any RDBMS.
+* [JsonFlatFileDataStore](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data.
+
+## Storage
+
+* [PCLStorage](https://github.com/dsplaisted/PCLStorage) - PCL Storage provides a consistent, portable set of local file IO APIs for .NET, Windows Phone, Windows Store, Xamarin.iOS, Xamarin.Android, and Silverlight.
 
 ## Database Drivers
 
